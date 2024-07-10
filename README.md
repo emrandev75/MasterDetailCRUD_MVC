@@ -1,1 +1,1 @@
-# MasterDetailCRUD_MVC
+# MVC-Master-Detail-CRUD
